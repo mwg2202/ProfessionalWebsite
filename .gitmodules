@@ -1,0 +1,3 @@
+[submodule "StockMarketApplication"]
+	path = StockMarketApplication
+	url = https://github.com/mwg2202/StockMarketApplication
