@@ -1,3 +1,6 @@
 [submodule "StockMarketApplication"]
 	path = StockMarketApplication
 	url = https://github.com/mwg2202/StockMarketApplication
+[submodule "RecipeApp"]
+	path = RecipeApp
+	url = https://github.com/mwg2202/RecipeApp

@@ -9,3 +9,6 @@ services:
         build: StockMarketApplication
         ports:
             - 8081:80
+    recipe-app:
+        build: RecipeApp
+            - 8082:80
