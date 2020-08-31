@@ -10,3 +10,6 @@
 [submodule "Homework"]
 	path = Homework
 	url = https://github.com/mwg2202/Homework
+[submodule "PDESolver"]
+	path = PDESolver
+	url = https://github.com/mwg2202/PDESolver
