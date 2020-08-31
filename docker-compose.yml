@@ -22,3 +22,7 @@ services:
             - ./RecipeApp/postgres/data:/var/lib/postgresql/data
         ports:
             - 7072:5432
+    pde-solver:
+        build: PDESolver
+        ports:
+            - 8083:80
