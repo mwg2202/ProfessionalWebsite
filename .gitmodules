@@ -4,3 +4,9 @@
 [submodule "RecipeApp"]
 	path = RecipeApp
 	url = https://github.com/mwg2202/RecipeApp
+[submodule "Demos"]
+	path = Demos
+	url = https://github.com/mwg2202/Demos
+[submodule "Homework"]
+	path = Homework
+	url = https://github.com/mwg2202/Homework
