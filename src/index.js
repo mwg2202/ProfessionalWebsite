@@ -13,6 +13,14 @@ $(document).ready(function(){
       dots: false,
       infinite: true,
       speed: 300,
-      slidesToShow: 1,
+      slidesToShow: 3,
+      responsive: [
+        {
+          breakpoint: 750,
+          settings: {
+            slidesToShow: 1,
+          }
+        }
+      ]
     });
 });
