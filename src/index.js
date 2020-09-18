@@ -2,6 +2,7 @@ import './homepage.scss';
 
 
 $(document).ready(function(){
+
     $('.projects').slick({
         dots: false,
         infinite: true,
